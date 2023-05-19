@@ -11,7 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-```{r}
+2a) 
+Guess # 1
 
-```
+5.7 million 
+
+Guess # 2 
+
+200.000 in Karlsruhe 
+
+Guess # 3 
+
+20 Percent 
 
