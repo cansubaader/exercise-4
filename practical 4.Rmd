@@ -1,0 +1,17 @@
+---
+title: "practical 4"
+author: "Pia Baader"
+date: "2023-05-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+
+```
+
