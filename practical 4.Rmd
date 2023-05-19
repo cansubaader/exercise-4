@@ -14,13 +14,13 @@ knitr::opts_chunk$set(echo = TRUE)
 2a) 
 Guess # 1
 
-5.7 million 
+7,850,200 
 
 Guess # 2 
 
-200.000 in Karlsruhe 
+313,092 in Karlsruhe 
 
 Guess # 3 
 
-20 Percent 
+29 Percent 
 
